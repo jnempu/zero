@@ -1,0 +1,5 @@
+timeout 1
+
+title zero OS
+	root (cd)
+	kernel /kernel
